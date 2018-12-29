@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/StephenGrider/Lyrical-GraphQL"
+    "url": "https://github.com/bassettyambica/React-Apollo-GraphQL.git"
   },
   "scripts": {
     "dev": "nodemon index.js --ignore client"
@@ -29,7 +29,7 @@
     "graphql": "^0.8.2",
     "html-webpack-plugin": "^2.26.0",
     "lodash": "^4.17.4",
-    "mongoose": "^4.7.8",
+    "mongoose": "^5.3.3",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
     "react": "15.4.2",
