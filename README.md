@@ -35,12 +35,14 @@ npm run dev
 
 ### Project overview 
 
-*User can view the list of songs saved on the DB on Home Page. 
-*User can click on create button to create a new song.
-*Navigation on each page is done using react router.
-*User can delete any song from the list.
-*User can select any particular song from the list
-*User can create a new Lyric for the selected song.
-*User can see the list of the lyrics and also upvote the likes for them
+- User can view the list of songs saved on the DB on Home Page. 
+- User can click on create button to create a new song.
+- Navigation on each page is done using react router.
+- User can delete any song from the list.
+- User can select any particular song from the list
+- User can create a new Lyric for the selected song.
+- User can see the list of the lyrics and also upvote the likes for them
 
+
+![Alt Text](file:///Users/abasetti/Documents/graphQlProject.gif
 
