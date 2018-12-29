@@ -44,5 +44,5 @@ npm run dev
 - User can see the list of the lyrics and also upvote the likes for them
 
 
-![Alt Text](file:///Users/abasetti/Documents/graphQlProject.gif
+![Alt Text](file:///Users/abasetti/Documents/graphQlProject.gif)
 
